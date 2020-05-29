@@ -38,4 +38,4 @@ Requests -- used to pull data from our API url
 
 Json_Normalize -- to make the API data more readable 
 
-Blackcellmagic -- to auto format blocks of code for easier readability  
+Blackcellmagic -- to auto format blocks of code for easier readability
